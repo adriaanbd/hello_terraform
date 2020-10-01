@@ -1,1 +1,3 @@
-.terraform/plugins
+.gitignore
+*.backup
+.terraform/*
